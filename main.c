@@ -16,6 +16,7 @@ int main() {
     printf("  SISTEMA DE CONTROL DE ASISTENCIAS\n");
     printf("================================\n");
     
+    
     printf("\nIngrese su codigo de usuario: ");
     scanf("%d", &codigo);
 
